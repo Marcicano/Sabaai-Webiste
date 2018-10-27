@@ -1,4 +1,4 @@
-title = "Osprey Example Site"
+title = "SABAAI"
 baseURL = "https://sabaai.com.br"
 tags = ["portfolio", "web design", "blog"]
 languageCode = "en-US"
@@ -11,18 +11,13 @@ staticDir = "/static"
 disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
 
 [Params]
-    tagline = "Osprey Example Site"
-    author = "Toma Nistor"
-    description = "Full-stack web developer and UI/UX enthusiast based in San Diego, CA."
+    tagline = "Sabaai"
+    author = "Sabaai Thai"
+    description = "A Experiência Tailândia mais próxima de você"
     logoBig = "/images/pattern.png"
     logoSmall = "/images/pattern.png"
     favicon = "favicon.ico"
     opengraphImage = "/images/osprey.png"
-    twitter = "TomaNistor"
-    linkedin = "tomanistor"
-    github = "tomanistor"
-    facebook = ""
-    email = ""
     googleTagManger = ""
     highlightJS = true
     copyright = true
