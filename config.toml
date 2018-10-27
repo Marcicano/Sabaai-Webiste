@@ -1,5 +1,5 @@
 title = "Osprey Example Site"
-baseURL = "https://tomanistor.com"
+baseURL = "http://sabaai.com.br"
 tags = ["portfolio", "web design", "blog"]
 languageCode = "en-US"
 config = "config.toml"
