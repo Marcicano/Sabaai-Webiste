@@ -1,5 +1,5 @@
 title = "Sabai"
-baseURL = "https://tomanistor.com"
+baseURL = "https://amazing-wright-67e6f1.netlify.com"
 tags = ["portfolio", "web design", "blog"]
 languageCode = "en-US"
 config = "config.toml"
