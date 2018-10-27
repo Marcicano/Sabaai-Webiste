@@ -1,5 +1,5 @@
-title = "Sabai"
-baseURL = "https://amazing-wright-67e6f1.netlify.com"
+title = "Osprey Example Site"
+baseURL = "https://tomanistor.com"
 tags = ["portfolio", "web design", "blog"]
 languageCode = "en-US"
 config = "config.toml"
@@ -10,19 +10,19 @@ disqusShortname = "tomanistor"
 disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
 
 [Params]
-    tagline = "Sabai"
-    author = "Rodolfo Sousa"
-    description = "A full-stack web developer around the world"
-    logoBig = "/images/logo.png"
-    logoSmall = "/images/logo.png"
+    tagline = "Osprey Example Site"
+    author = "Toma Nistor"
+    description = "Full-stack web developer and UI/UX enthusiast based in San Diego, CA."
+    logoBig = "/images/osprey-logo.png"
+    logoSmall = "/images/osprey-logo.png"
     favicon = "favicon.ico"
-    opengraphImage = "/images/title.png"
+    opengraphImage = "/images/osprey.png"
     twitter = "TomaNistor"
     linkedin = "tomanistor"
     github = "tomanistor"
     facebook = ""
     email = ""
-    googleTagManager = ""
+    googleTagManger = ""
     highlightJS = true
     copyright = true
     credit = true
@@ -39,6 +39,10 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
     name = "Work"
     url  = "/#work"
     weight = 2
+[[menu.main]]
+    name = "Blog"
+    url  = "/#blog"
+    weight = 3
 [[menu.main]]
     name = "Contact"
     url  = "/#contact"
