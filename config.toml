@@ -28,14 +28,19 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
     ajaxFormspree = true
 
 [[menu.main]]
-    name = "Sobre"
-    url  = "/#about"
+    name = "Sabai"
+    url  = "/#intro"
     weight = 1
+
 [[menu.main]]
     name = "Cursos"
-    url  = "/#cursos"
-    weight = 2
+    url  = "/#gallery"
+    weight = 3
 [[menu.main]]
-    name = "Contact"
-    url  = "/#contact"
+    name = "Nós"
+    url  = "/#about"
     weight = 4
+[[menu.main]]
+    name = "Contato"
+    url  = "/#contact"
+    weight = 5

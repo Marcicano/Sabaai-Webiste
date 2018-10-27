@@ -1,5 +1,6 @@
 $('#form-contact').addEventListener('submit', function(e) {
   e.preventDefault();
+  alert('hey!');
 
   // Store form field values
   var name = $("input[name=name]").value;
