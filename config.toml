@@ -1,11 +1,11 @@
 title = "SABAAI"
-baseURL = "https://sabaai.com.br"
+baseURL = "https://www.sabaai.com.br"
 tags = ["portfolio", "web design", "blog"]
 languageCode = "en-US"
 config = "config.toml"
 theme = "osprey"
 canonifyURLS = true
-googleAnalytics = ""
+googleAnalytics = "UA-128248261-1"
 # disqusShortname = "tomanistor"
 staticDir = "/static"
 disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
