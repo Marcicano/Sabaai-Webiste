@@ -7,5 +7,4 @@ alt = ""
 color = "yellow"
 link1 = "/cursos/rio_herbal"
 link2 = "/cursos/rio_herbal#inscricao"
-draft = true
 +++
