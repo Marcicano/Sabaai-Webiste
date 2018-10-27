@@ -6,18 +6,18 @@ config = "config.toml"
 theme = "osprey"
 canonifyURLS = true
 googleAnalytics = ""
-disqusShortname = "tomanistor"
+# disqusShortname = "tomanistor"
 staticDir = "/static"
 disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
 
 [Params]
-    tagline = "Sabaai"
+    tagline = "Thailand + You"
     author = "Sabaai Thai"
-    description = "A Experiência Tailândia mais próxima de você"
-    logoBig = "/images/pattern.png"
-    logoSmall = "/images/pattern.png"
+    description = "Long and tedious description about Sabaai"
+    logoBig = "/images/logo.png"
+    logoSmall = "/images/logo.png"
     favicon = "favicon.ico"
-    opengraphImage = "/images/osprey.png"
+    opengraphImage = "/images/osprey-logo.png"
     googleTagManger = ""
     highlightJS = true
     copyright = true
@@ -28,17 +28,13 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
     ajaxFormspree = true
 
 [[menu.main]]
-    name = "About"
+    name = "Sobre"
     url  = "/#about"
     weight = 1
 [[menu.main]]
-    name = "Work"
-    url  = "/#work"
+    name = "Cursos"
+    url  = "/#cursos"
     weight = 2
-[[menu.main]]
-    name = "Blog"
-    url  = "/#blog"
-    weight = 3
 [[menu.main]]
     name = "Contact"
     url  = "/#contact"
