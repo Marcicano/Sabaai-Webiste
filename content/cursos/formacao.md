@@ -1,10 +1,9 @@
 +++
-title = ""
+title = "Thai Massagem"
 date = 2018-10-27T19:23:36+03:00
 description = ""
+id= "mas"
 +++
-
-# Formação em Thai Massagem
 
 Início 16 de Novembro 20183
 Total de 9 encontros aos finais de semana

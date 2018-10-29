@@ -11,30 +11,30 @@
       <div class="row middle-xs center-xs">
         <div class="col-xs-12"><img src="{{ .Site.Params.logoBig}}" alt="{{ .Site.Title }}"></div>
       </div>
-      <!-- <div class="row middle-xs center-xs">
+      <div class="row middle-xs center-xs">
         <div class="col-xs-12">
           <h1>
-            {{ .Site.Params.tagline }}
+            <!-- {{ .Site.Params.tagline }} -->
             <!-- <span class="cursor">|</span> -->
           </h1>
         </div>
-      </div> -->
+      </div>
     </div>
   </header>
 {{ end }}
 
 <nav class="row middle-xs center-xs">
-  <div class="col-xs-9 col-sm-1 logo">
+  <div class="col-xs-12 col-sm-1 logo">
     <a href="{{ .Site.BaseURL }}#"><img src="{{ .Site.Params.logoSmall }}" alt="{{ .Site.Title }}"></a>
   </div>
     {{ range .Site.Menus.main }}
-      <div class="col-xs-3 col-sm-2" id="menu-item-lg">
+      <div class="col-sm-2 menu-item-lg" >
         <h3><a href="{{ .URL }}">{{ .Name }}</a></h3>
       </div>
     {{ end }}
-  <div class="col-xs-1 col-sm-1 nav-toggle">
+  <!-- <div class="col-xs- col-sm-1 nav-toggle">
       <a href="" class="nav-icon" onclick="return false"><img src="/images/icon-menu.png" alt="Open Menu"><img src="/images/icon-x.png" alt="Close Menu" style="display: none;"></a>
-  </div>
+  </div> -->
 </nav>
 
 <section class="nav-full row middle-xs center-xs">
