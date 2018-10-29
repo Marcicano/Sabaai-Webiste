@@ -1,5 +1,5 @@
 <div class="inscrevase-container">
-    <form name="inscrevase" netlify-honeypot="bot-field" method="POST" action="/inscricao-{{ .Params.Id }}/" netlify>
+    <form name="inscrevase-{{ .Params.Id }}" netlify-honeypot="bot-field" method="POST" action="/inscricao-{{ .Params.Id }}/" netlify>
         <input type="hidden" name="form-name" value="inscrevase" />
         <input type="hidden" name="curso" value="{{ .Params.Id }}" />
         <div class="row">
