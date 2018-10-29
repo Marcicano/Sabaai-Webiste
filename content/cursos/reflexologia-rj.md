@@ -1,10 +1,10 @@
 +++
-title = "Reflexologia - Rio de Janeiro"
+title = ""
 date = 2018-10-27T19:23:36+03:00
 description = ""
 +++
 
-#Reflexologia - Rio de Janeiro
+# Reflexologia - Rio de Janeiro
 
 Início 22 de Novembro 2018
 2 dias de aula (carga horária 12h)

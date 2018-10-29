@@ -1,10 +1,10 @@
 +++
-title = "Reflexologia"
+title = ""
 date = 2018-10-27T19:23:36+03:00
 description = ""
 +++
 
-#Reflexologia
+# Reflexologia
 
 Início 07 de Dezembro 2018
 3 dias de aula (carga horária 12h)
