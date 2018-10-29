@@ -1,5 +1,5 @@
 <div class="inscrevase-container">
-    <form netlify id="inscrevase" action="/inscricao">
+    <form netlify id="inscrevase" action="/inscricao-{{ .Params.Id }}">
         <input type="hidden" id="curso" value="{{ .Params.Id }}" />
         <div class="row">
             <div class="col-xs-12">
