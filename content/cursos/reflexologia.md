@@ -15,7 +15,7 @@ SEX (07): 18.00 às 22:00
 SAB (08): 18.00 às 22:00
 DOM (09): 18.00 às 22:00
 
-Inscreva-se ->  https://goo.gl/v6jG6x
+<!-- Inscreva-se ->  https://goo.gl/v6jG6x -->
 
 
 ## A quem é destinado este curso?

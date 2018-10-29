@@ -13,7 +13,7 @@ Horário de realização:
 Sab 12/01: 9.00 - 17:00
 Dom 13/01: 10.00 - 17:00
 
-Inscreva-se ->  https://goo.gl/v6jG6x
+<!-- Inscreva-se ->  https://goo.gl/v6jG6x -->
 
 ## A quem é destinado este curso?
 

@@ -16,7 +16,7 @@
     {{ else if .Params.heading }}
         {{ .Params.heading }}
     {{ else }}
-        {{ .Title }} | {{ .Site.Title }}
+        {{ .Title }} {{ .Site.Title }}
     {{ end }}
   </title>
 
