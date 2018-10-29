@@ -24,15 +24,15 @@
 {{ end }}
 
 <nav class="row middle-xs center-xs">
-  <div class="col-xs-6 col-sm-1 logo">
+  <div class="col-xs-9 col-sm-1 logo">
     <a href="{{ .Site.BaseURL }}#"><img src="{{ .Site.Params.logoSmall }}" alt="{{ .Site.Title }}"></a>
   </div>
     {{ range .Site.Menus.main }}
-      <div class="col-xs-3 col-sm-2">
+      <div class="col-xs-3 col-sm-2" id="menu-item-lg">
         <h3><a href="{{ .URL }}">{{ .Name }}</a></h3>
       </div>
     {{ end }}
-  <div class="col-xs-6 col-sm-1 nav-toggle">
+  <div class="col-xs-1 col-sm-1 nav-toggle">
       <a href="" class="nav-icon" onclick="return false"><img src="/images/icon-menu.png" alt="Open Menu"><img src="/images/icon-x.png" alt="Close Menu" style="display: none;"></a>
   </div>
 </nav>
