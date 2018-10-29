@@ -2,13 +2,13 @@
 {{ $filename := "viagem.md" }}
 {{ if (where (readDir $directory) "Name" $filename) }}
   <section class="about" id="viagem">
-    <div class="container middle-xs">
+    <div class="container middle-xs content">
       <div class="row center-xs">
         <div class="col-xs-12">
           <h1>{{ with $.Site.GetPage "page" "viagem.md" }}{{ .Title }}{{ end }}</h1>
         </div>
       </div>
-      <div class="row">
+      <div class="row" >
           <div class="col-xs-6 col-sm-6">
               <img src="/images/viagem-1.png" {{ if .Params.alt }}alt="{{ .Params.alt }}"{{ end }}>
           </div>
