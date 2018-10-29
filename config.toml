@@ -11,9 +11,9 @@ staticDir = "/static"
 disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
 
 [Params]
-    tagline = "Slogan slogan slogan"
+    tagline = "Sabaai, a Tailandia nas suas mãos"
     author = "Sabaai Thai"
-    description = "Slogan slogan slogan"
+    description = "Sabaai, a Tailandia nas suas mãos"
     logoBig = "/images/logo.png"
     logoSmall = "/images/logo.png"
     favicon = "favicon.ico"
