@@ -4,7 +4,7 @@ date = 2018-10-27T19:23:36+03:00
 description = ""
 +++
 
-# Tok-Sen - Vitória/ES
+# Tok-Sen
 
 Início 15 de dezembro de 2018
 Dois encontro no final de semana
