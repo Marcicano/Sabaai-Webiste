@@ -11,9 +11,9 @@ staticDir = "/static"
 disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
 
 [Params]
-    tagline = "Thailand + You"
+    tagline = "Slogan slogan slogan"
     author = "Sabaai Thai"
-    description = "Long and tedious description about Sabaai"
+    description = "Slogan slogan slogan"
     logoBig = "/images/logo.png"
     logoSmall = "/images/logo.png"
     favicon = "favicon.ico"
@@ -31,13 +31,14 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
     name = "Cursos"
     url  = "/#gallery"
     weight = 1
-[[menu.main]]
-    name = "Viagem"
-    url  = "/#viagem"
-    weight = 2
+
 [[menu.main]]
     name = "Nós"
     url  = "/#nos"
+    weight = 2
+[[menu.main]]
+    name = "Viagem"
+    url  = "/#viagem"
     weight = 3
 [[menu.main]]
     name = "Contato"
