@@ -4,7 +4,7 @@ subtitle = "20-30 October"
 date = 2018-10-27T19:58:15+03:00
 image = "/cursos/spa-tailandes.png"
 alt = ""
-color = ""
+color = "goldenrod"
 link1 = "/cursos/spa-tailandes"
 link2 = ""
 +++
