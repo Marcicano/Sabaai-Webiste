@@ -29,10 +29,9 @@
     header {
       background-image: url('/images/title.jpg') !important;
       background-attachment: fixed;
-      background-size: cover;
+      background-size: contain;
       background-position: center;
       filter: brightness(70%);
-      background: rgb(202,82,58);
     }
 
     section.about {
@@ -42,8 +41,16 @@
       background-size: 30%; */
     }
 
-    .overlay h4 {
+    .overlay h4, #viagem p {
       color: white;
+    }
+
+    #gallery img {
+      padding: 60px;
+    }
+
+    #viagem .row img {
+      padding: 10px 0px 10px 0px;
     }
 
     #about {

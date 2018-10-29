@@ -9,6 +9,21 @@
         </div>
       </div>
       <div class="row">
+          <div class="col-xs-6 col-sm-6">
+              <img src="/images/viagem-1.jpg" {{ if .Params.alt }}alt="{{ .Params.alt }}"{{ end }}>
+          </div>
+          <div class="col-xs-6 col-sm-6">
+              <img src="/images/viagem-2.jpg" {{ if .Params.alt }}alt="{{ .Params.alt }}"{{ end }}>
+          </div>
+          <div class="col-xs-6 col-sm-6">
+              <img src="/images/viagem-3.jpg" {{ if .Params.alt }}alt="{{ .Params.alt }}"{{ end }}>
+          </div>
+          <div class="col-xs-6 col-sm-6">
+              <img src="/images/viagem-4.jpg" {{ if .Params.alt }}alt="{{ .Params.alt }}"{{ end }}>
+          </div>
+      </div>
+      <br/>
+      <div class="row">
         <div class="col-xs-12 middle-xs">
           {{ with $.Site.GetPage "page" "viagem.md" }}
             {{ .Content }}
