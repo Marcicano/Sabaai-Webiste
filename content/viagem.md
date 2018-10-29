@@ -7,6 +7,6 @@ image3: "viagem-3.jpg"
 image4: "viagem-4.jpg"
 ---
 
-## Viagem à Tailandia
+## Viagem à Tailândia
 
 Em breve viaje conosco para um dos destinos mais fascinantes do mundo, a incrível Tailândia. Aguarde para novas informações! Estamos preparando tudo, e será imperdível!
