@@ -1,5 +1,6 @@
 <div class="inscrevase-container">
-    <form netlify id="inscrevase" action="/inscricao-{{ .Params.Id }}">
+    <form netlify name="inscrevase" method="POST" action="/inscricao-{{ .Params.Id }}">
+        <input type="hidden" name="form-name" value="inscrevase" />
         <input type="hidden" id="curso" value="{{ .Params.Id }}" />
         <div class="row">
             <div class="col-xs-12">
