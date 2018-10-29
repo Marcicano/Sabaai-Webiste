@@ -1,6 +1,6 @@
 +++
 title = "Reflexologia - Rio de Janeiro"
-subtitle = "20-30 October"
+subtitle = "Início 22 de Novembro, 2 encontros"
 date = 2018-10-27T19:58:15+03:00
 image = "/cursos/reflexologia-rj.png"
 alt = ""

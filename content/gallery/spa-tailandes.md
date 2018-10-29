@@ -1,6 +1,6 @@
 +++
 title = "SPA Tailandes"
-subtitle = "20-30 October"
+subtitle = "Início em 10 de Novembro, 2 encontros"
 date = 2018-10-27T19:58:15+03:00
 image = "/cursos/spa-tailandes.png"
 alt = ""

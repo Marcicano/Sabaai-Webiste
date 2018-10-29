@@ -6,7 +6,7 @@ description = ""
 
 #Tok-Sen - Vitória/ES
 
-Início 15 DE Dezembro de 2018
+Início 15 de Dezembro de 2018
 Dois encontro no final de semana
 
 Horário de realização:

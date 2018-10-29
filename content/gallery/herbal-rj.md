@@ -1,6 +1,6 @@
 +++
 title = "Herbal - Rio de Janeiro"
-subtitle = "20-30 October"
+subtitle = "Início em 12 de Janeiro, 2 encontros"
 date = 2018-10-27T19:58:15+03:00
 image = "/cursos/herbal-rj.png"
 alt = ""
