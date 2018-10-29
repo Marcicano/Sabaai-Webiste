@@ -1,8 +1,8 @@
 <section class="gallery" id="gallery">
     <div class="row">
 
-        {{ $galleryTotal := len (where .Site.RegularPages "Section" "gallery") }}
-        {{ $galleryReverse := (where .Site.RegularPages.Reverse "Section" "gallery") }}
+        {{ $galleryTotal := len (where .Site.RegularPages.ByWeight "Section" "gallery") }}
+        {{ $galleryReverse := (where .Site.RegularPages.ByWeight.Reverse "Section" "gallery") }}
 
         <!-- Where gallery is an odd total -->
         {{ if not (modBool $galleryTotal 2) }}

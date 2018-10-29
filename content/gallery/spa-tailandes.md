@@ -7,4 +7,5 @@ alt = ""
 color = "#ff793f"
 link1 = "/cursos/spa-tailandes"
 link2 = ""
+weight = 3
 +++
