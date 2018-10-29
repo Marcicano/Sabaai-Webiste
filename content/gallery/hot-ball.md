@@ -1,10 +1,10 @@
 +++
-title = "Reflexologia"
+title = "Thai Herbal Hot Ball Compress"
 subtitle = "Rio de Janeiro e Vitória"
 date = 2018-10-27T19:58:15+03:00
-image = "/cursos/reflexologia.png"
+image = "/cursos/hot-ball.png"
 alt = ""
 color = "sandybrown"
-link1 = "/cursos/reflexologia"
+link1 = "/cursos/hot-ball"
 link2 = ""
 +++
