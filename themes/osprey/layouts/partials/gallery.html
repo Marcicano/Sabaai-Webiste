@@ -13,15 +13,17 @@
                         
                         <img src="/images/{{ .Params.image}}" {{ if .Params.alt }}alt="{{ .Params.alt }}"{{ end }}>
                         <!-- <h2 class="gallery-item-title">{{ .Title }}</h2> -->
-                        <div class="row middle-xs center-xs overlay">
-                            <a href="{{ .Params.link1 }}">
+                        <a href="{{ .Params.link1 }}"></a>
+                            <div class="row middle-xs center-xs overlay">
+                            
                                 <div class="col-xs-12">
                                     <h2>{{ .Title }}</h2>
                                     <h4>{{ .Params.subtitle }} </h4>
                                     
                                 </div>
-                            </a>
-                        </div>
+                                
+                            </div>
+                        </a>
                     </div>
                 {{ end }}
             {{ end }}
@@ -31,15 +33,15 @@
                     <div class="gallery-item col-xs-12 col-md-4" onclick {{ if .Params.color }}style="background-color:{{ .Params.color }}"{{ end }}>
                         <img src="/images/{{ .Params.image}}" {{ if .Params.alt }}alt="{{ .Params.alt }}"{{ end }}>
                         <!-- <h2 class="gallery-item-title">{{ .Title }}</h2> -->
-                        <div class="row middle-xs center-xs overlay">
-                                <a href="{{ .Params.link1 }}">
+                        <a href="{{ .Params.link1 }}">
+                            <div class="row middle-xs center-xs overlay">
                                         <div class="col-xs-12">
                                             <h2>{{ .Title }}</h2>
                                             <h4>{{ .Params.subtitle }} </h4>
-                                            
                                         </div>
-                                    </a>
-                        </div>
+                                    
+                            </div>
+                        </a>
                     </div>
                 {{ end }}
             {{ end }}
@@ -56,15 +58,16 @@
                     {{ end }}" onclick {{ if .Params.color }}style="background-color:{{ .Params.color }}"{{ end }}>
                         <img src="/images/{{ .Params.image}}" {{ if .Params.alt }}alt="{{ .Params.alt }}"{{ end }}>
                         <!-- <h2 class="gallery-item-title">{{ .Title }}</h2> -->
-                        <div class="row middle-xs center-xs overlay">
-                                <a href="{{ .Params.link1 }}">
+                        <a href="{{ .Params.link1 }}">
+                            <div class="row middle-xs center-xs overlay">
+                                
                                         <div class="col-xs-12">
                                             <h2>{{ .Title }}</h2>
                                             <h4>{{ .Params.subtitle }} </h4>
                                             
                                         </div>
-                                    </a>
-                        </div>
+                            </div>
+                        </a>
                     </div>
                 {{ end }}
             {{ end }}
@@ -84,15 +87,14 @@
                 {{ end }}" onclick {{ if .Params.color }}style="background-color:{{ .Params.color }}"{{ end }}>
                     <img src="/images/{{ .Params.image}}" {{ if .Params.alt }}alt="{{ .Params.alt }}"{{ end }}>
                     <!-- <h2 class="gallery-item-title">{{ .Title }}</h2> -->
-                    <div class="row middle-xs center-xs overlay">
-                            <a href="{{ .Params.link1 }}">
-                                    <div class="col-xs-12">
-                                        <h2>{{ .Title }}</h2>
-                                        <h4>{{ .Params.subtitle }} </h4>
-                                        
-                                    </div>
-                                </a>
-                    </div>
+                    <a href="{{ .Params.link1 }}">
+                        <div class="row middle-xs center-xs overlay">    
+                            <div class="col-xs-12">
+                                <h2>{{ .Title }}</h2>
+                                <h4>{{ .Params.subtitle }} </h4>
+                            </div>
+                        </div>
+                    </a>
                 </div>
             {{ end }}
         {{ end }}
