@@ -1,5 +1,5 @@
 +++
-title = "Thai Massagem com compressa de ervas"
+title = "Thai Massagem com compressa de ervas quentes"
 subtitle = "Rio de Janeiro e Vitória"
 date = 2018-10-27T19:56:15+03:00
 image = "/cursos/hot-ball.jpg"
