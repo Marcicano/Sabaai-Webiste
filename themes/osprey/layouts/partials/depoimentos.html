@@ -1,0 +1,35 @@
+{{ $directory := "content/" }}
+{{ $filename := "viagem.md" }}
+{{ if (where (readDir $directory) "Name" $filename) }}
+  <section class="about" id="depoimentos">
+    <div class="container middle-xs ">
+      <div class="row center-xs">
+        <div class="col-xs-12">
+          <h1>{{ with $.Site.GetPage "page" "depoimentos.md" }}{{ .Title }}{{ end }}</h1>
+        </div>
+      </div>
+      <!-- <div class="row" >
+          <div class="col-xs-6 col-sm-6">
+              <img src="/images/viagem-1.png" {{ if .Params.alt }}alt="{{ .Params.alt }}"{{ end }}>
+          </div>
+          <div class="col-xs-6 col-sm-6">
+              <img src="/images/viagem-2.jpg" {{ if .Params.alt }}alt="{{ .Params.alt }}"{{ end }}>
+          </div>
+          <div class="col-xs-6 col-sm-6">
+              <img src="/images/viagem-3.jpg" {{ if .Params.alt }}alt="{{ .Params.alt }}"{{ end }}>
+          </div>
+          <div class="col-xs-6 col-sm-6">
+              <img src="/images/viagem-4.jpg" {{ if .Params.alt }}alt="{{ .Params.alt }}"{{ end }}>
+          </div>
+      </div> -->
+      <br/>
+      <div class="row content">
+        <div class="col-xs-12 middle-xs">
+          {{ with $.Site.GetPage "page" "depoimentos.md" }}
+            {{ .Content }}
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </section>
+{{ end }}
