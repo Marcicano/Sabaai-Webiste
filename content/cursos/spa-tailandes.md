@@ -5,13 +5,9 @@ description = ""
 id= "spa"
 +++
 
-
-Início 10 de Novembro de 2018
-Dois encontro no final de semana
-
-Horário de realização:
-Sab 10/11: 9.00 - 17:00
-Dom 11/11: 9.00 - 17:00
+### Vitória
+#### Datas: 10 e 11 de Novembro de 2018
+#### Horário de Realização: Sábado e Domingo das 09:00 às 17:00
 
 ## A quem é destinado este curso?
 Este curso é voltado para pessoas sem experiência que estão em busca de novos conhecimentos, para profissionais que já atuam no mercado, massoterapeutas, fisioteraputas, estudantes, praticantes de yoga ou amantes da cultura tailandesa. Não há pré-requisitos definido.

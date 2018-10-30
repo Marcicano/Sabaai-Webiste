@@ -5,14 +5,15 @@ description = ""
 id= "ref"
 +++
 
-Início 07 de Dezembro 2018
-3 dias de aula (carga horária 12h)
-07, 08 e 09 de Dez
 
-Horário de realização:
-SEX (07): 18.00 às 22:00
-SAB (08): 18.00 às 22:00
-DOM (09): 18.00 às 22:00
+### Rio de Janeiro
+#### Datas: 22 e 23 de Novembro 2018
+#### Horário de realização: Quinta e Sexta das 10:00 às 18:00
+
+### Vitória
+#### Datas: 07, 08 e 09 de Dezembro 2018 
+#### Horário de realização: Sexta, Sábado e Domingo das 18:00 às 22:00
+
 
 ## A quem é destinado este curso?
 Não há pré-requisitos, é voltado àqueles que tenham interesse em práticas corporais, massoterapeutas, ou simplesmente às pessoas que apreciam o toque como uma forma de relaxamento e bem-estar.

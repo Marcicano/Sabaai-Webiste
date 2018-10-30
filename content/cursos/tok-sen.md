@@ -5,6 +5,11 @@ description = ""
 id= "tok"
 +++
 
+
+### Vitória
+#### Datas: 15 e 16 de Dezembro de 2018
+#### Horário de realização: Sábado e Domingo das 09:00 às 17:00 
+
 Início 15 de dezembro de 2018
 Dois encontro no final de semana
 

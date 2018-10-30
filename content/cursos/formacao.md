@@ -5,14 +5,9 @@ description = ""
 id= "mas"
 +++
 
-Início 16 de Novembro 20183
-Total de 9 encontros aos finais de semana
-16, 17, 18 Nov | 23, 24, 25 Nov | 30, 01, 02 Dez
-
-Horário de realização:
-SEX: 19.00 - 22.00
-SÁB: 9.00 - 17.00
-DOM: 9.00 - 17.00
+### Rio de Janeiro
+#### Datas: 16, 17, 18 Nov | 23, 24, 25 Nov | 30, 01, 02 Dez
+#### Horário de realização: Sexta: 19:00 - 22:00, Sábados e Domingos: 09:00 - 17:00
 
 
 ## A quem é destinado este curso?
