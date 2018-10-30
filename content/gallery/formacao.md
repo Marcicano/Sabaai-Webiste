@@ -1,5 +1,5 @@
 +++
-title = "Formação Thai Massagem"
+title = "Thai Massagem"
 subtitle = "Rio de Janeiro"
 date = 2018-09-27T19:55:15+03:00
 image = "/cursos/formacao.jpg"
