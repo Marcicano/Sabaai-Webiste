@@ -1,5 +1,6 @@
+
 <br>
-<form netlify name="inscricao">
+<form netlify name="inscricao-completa" method="POST" action="/success">
         <input type="hidden" name="curso" value="{{ .Params.id }}" />
         <div class="form-group">
                 <label name="email">Confirme seu email</label>
@@ -10,8 +11,12 @@
                 <input type="text" name="mailing"/>
         </div>
         <div class="form-group">
-                <label name="nome">Nome completo</label>
+                <label name="nome">Nome</label>
                 <input type="text" name="nome"/>
+        </div>
+        <div class="form-group">
+                <label name="sobrenomes">Sobrenome(s)</label>
+                <input type="text" name="sobrenomes"/>
         </div>
         <div class="form-group">
                 <label name="nascimento">Data de Nascimento</label>
