@@ -5,6 +5,6 @@ description = ""
 id= "tha"
 +++
 
-### Estamos preparando essa nova experiência para você! Para saber mais, inscreva-se com seu email.
+### Estamos preparando essa nova experiência para você! Para saber mais, cadastre seu email aqui.
 
 
