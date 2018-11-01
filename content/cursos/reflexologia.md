@@ -14,8 +14,6 @@ id= "ref"
 #### Datas: 07, 08 e 09 de Dezembro 2018 
 #### Horário de realização: Sexta, Sábado e Domingo das 18:00 às 22:00
 
-<br>
-
 ## A quem é destinado este curso?
 Não há pré-requisitos, é voltado àqueles que tenham interesse em práticas corporais, massoterapeutas, ou simplesmente às pessoas que apreciam o toque como uma forma de relaxamento e bem-estar.
 

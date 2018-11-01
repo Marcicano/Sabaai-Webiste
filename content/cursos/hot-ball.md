@@ -13,8 +13,6 @@ id= "hot"
 #### Datas: 08 e 09 de Dezembro de 2018 
 #### Horário de realização: Sábado e Domingo 09:00 - 17:00 
 
-<br>
-
 ## A quem é destinado este curso?
 Não há pré-requisitos para se inscrever. O curso é voltado àqueles que tenham interesse em práticas corporais, massoterapeutas, praticantes da Yoga ou simplesmente às pessoas que apreciam o toque como uma forma de relaxamento e bem-estar.
 

@@ -9,8 +9,6 @@ id= "mas"
 #### Datas: 16, 17, 18 Nov | 23, 24, 25 Nov | 30, 01, 02 Dez
 #### Horário de realização: Sexta: 19:00 - 22:00, Sábados e Domingos: 09:00 - 17:00
 
-<br>
-
 ## A quem é destinado este curso?
 Não há pré-requisitos, é voltado àqueles que tenham interesse em práticas corporais, massoterapeutas, praticantes da Yoga ou simplesmente às pessoas que apreciam o toque como uma forma de relaxamento e bem-estar.
 
