@@ -27,7 +27,7 @@ O curso oferecido pela Prof.ª Barbara Santos é certificado pela escola tailand
 O valor do Certificado Internacional não está incluso no valor do curso, o mesmo deverá ser pago separadamente. 
 
 - Certificado Nacional:
-Todos os alunos receberão o Certificado nacional emitido pelo NIBBAN® Cursos e Palestras.
+Todos os alunos receberão o Certificado nacional emitido pelo SABAAI Cursos e Palestras.
 
 
 ## Do Pagamento

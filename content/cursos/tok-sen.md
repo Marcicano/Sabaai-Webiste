@@ -13,7 +13,7 @@ id= "tok"
 ## A quem é destinado este curso?
 Este curso é voltado para pessoas sem experiência que estão em busca de novos conhecimentos, para profissionais que já atuam no mercado, massoterapeutas, fisioteraputas, estudantes, praticantes de yoga ou amantes da cultura tailandesa. Não há pré-requisitos definido.
 ## Sobre o curso
-O curso de Tok Sen oferecido pelos professores do NIBBANA segue os mesmos padrões de ensino da Escola Tailandesa SPA Mantra, o que permite a Certificação Internacional emitida por esta escola, reconhecida pelo Ministério da Saúde Tailandês, pelo Ministério da Educação Tailandesa, e em diversos países no mundo. ​ Serão abordados os seguintes tópicos: ​ Posições: Decúbito Dorsal, Ventral, Lateral e Sentado (em média 50 movimentos). Linhas de energia (Sen), Yin e Yang. Aspectos práticos da Thai Massagem com aplicação de Tok Sen. Como montar e criar sua própria sessão. Como abordar e explicar o que é Tok Sen.
+O curso de Tok Sen oferecido pelos professores do SABAAI segue os mesmos padrões de ensino da Escola Tailandesa SPA Mantra, o que permite a Certificação Internacional emitida por esta escola, reconhecida pelo Ministério da Saúde Tailandês, pelo Ministério da Educação Tailandesa, e em diversos países no mundo. ​ Serão abordados os seguintes tópicos: ​ Posições: Decúbito Dorsal, Ventral, Lateral e Sentado (em média 50 movimentos). Linhas de energia (Sen), Yin e Yang. Aspectos práticos da Thai Massagem com aplicação de Tok Sen. Como montar e criar sua própria sessão. Como abordar e explicar o que é Tok Sen.
 ​Carga Horária: 15h
 Para saber mais sobre o SPA Mantra, acesse o site: www.spamantra.com
 ​
