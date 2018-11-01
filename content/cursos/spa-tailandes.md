@@ -9,6 +9,10 @@ id= "spa"
 #### Datas: 10 e 11 de Novembro de 2018
 #### Horário de Realização: Sábado e Domingo das 09:00 às 17:00
 
+
+<br>
+
+
 ## A quem é destinado este curso?
 Este curso é voltado para pessoas sem experiência que estão em busca de novos conhecimentos, para profissionais que já atuam no mercado, massoterapeutas, fisioteraputas, estudantes, praticantes de yoga ou amantes da cultura tailandesa. Não há pré-requisitos definido.
 ## Sobre o curso
