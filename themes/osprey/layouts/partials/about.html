@@ -10,7 +10,7 @@
       </div> -->
       <div class="row content">
           <div class="col-xs-4 col-sm-4 middle-sm">
-              <img src="/images/marcicano.jpg" {{ if .Params.alt }}alt="{{ .Params.alt }}"{{ end }}>
+              <img id="img-marcicano" src="/images/marcicano.jpg" {{ if .Params.alt }}alt="{{ .Params.alt }}"{{ end }}>
             </div>
           <div class="col-xs-8 col-sm-8 middle-sm">
               {{ with $.Site.GetPage "page" "about.md" }}
