@@ -10,13 +10,6 @@ id= "tok"
 #### Datas: 15 e 16 de Dezembro de 2018
 #### Horário de realização: Sábado e Domingo das 09:00 às 17:00 
 
-Início 15 de dezembro de 2018
-Dois encontro no final de semana
-
-Horário de realização:
-Sab 15/12: 9.00 - 17:00
-Dom 16/12: 9.00 - 17:00
-
 ## A quem é destinado este curso?
 Este curso é voltado para pessoas sem experiência que estão em busca de novos conhecimentos, para profissionais que já atuam no mercado, massoterapeutas, fisioteraputas, estudantes, praticantes de yoga ou amantes da cultura tailandesa. Não há pré-requisitos definido.
 ## Sobre o curso
