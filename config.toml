@@ -13,7 +13,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
 [Params]
     tagline = "Sabaai, a Tailândia nas suas mãos"
     author = "Sabaai Thai"
-    description = "Thai Massage nas suas mãos através dos melhores cursos do mercado. Direto da Tailândia ao Brasil. Venha fazer uma viagem à Tailândia conosco!"
+    description = "Thai Massage nas suas mãos através dos melhores cursos do mercado. Direto da Tailândia para Brasil e Portugal. Venha fazer uma viagem à Tailândia conosco!"
     logoBig = "/images/logo.png"
     logoSmall = "/images/logo-small.png"
     favicon = "favicon.ico"
