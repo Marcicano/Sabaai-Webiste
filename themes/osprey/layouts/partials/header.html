@@ -32,7 +32,7 @@
   <base href="{{ .Site.BaseURL }}">
 
   {{ if .Description }}
-    <meta name="description" content="{{ .Description }}">
+  <meta name="description" content="{{ .Description }}">
   {{ else if .Site.Params.description }}
     <meta name="description" content="{{ .Site.Params.description }}">
   {{ else if .Summary }}
@@ -51,6 +51,7 @@
 
   <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else if .Params.heading }}{{ .Params.heading }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}">
   <meta property="og:type" content="website">
+  <meta property="og:locale" content="pt-BR">
   <meta property="og:url" content="{{ .Site.BaseURL }}">
 
   {{ if .Site.Params.opengraphImage}}
@@ -58,7 +59,7 @@
   {{ end }}
 
   {{ if .Description }}
-    <meta name="og:description" content="{{ .Description }}">
+  <meta name="og:description" content="{{ .Description }}">
   {{ else if .Site.Params.description }}
     <meta property="og:description" content="{{ .Site.Params.description}}">
   {{ else if .Summary }}
