@@ -3,11 +3,11 @@
 {{ if (where (readDir $directory) "Name" $filename) }}
   <section class="about" id="viagem">
     <div class="container middle-xs ">
-      <div class="row center-xs">
+      <!-- <div class="row center-xs">
         <div class="col-xs-12">
           <h1>{{ with $.Site.GetPage "page" "viagem.md" }}{{ .Title }}{{ end }}</h1>
         </div>
-      </div>
+      </div> -->
       <!-- <div class="row" >
           <div class="col-xs-6 col-sm-6">
               <img src="/images/viagem-1.png" {{ if .Params.alt }}alt="{{ .Params.alt }}"{{ end }}>
@@ -22,7 +22,7 @@
               <img src="/images/viagem-4.jpg" {{ if .Params.alt }}alt="{{ .Params.alt }}"{{ end }}>
           </div>
       </div> -->
-      <br/>
+      <!-- <br/> -->
       <div class="row content">
         <div class="col-xs-12 middle-xs">
           {{ with $.Site.GetPage "page" "viagem.md" }}
