@@ -34,5 +34,7 @@ No curso estão inclusos os seguintes materiais: Apostila e Bastão de reflexolo
 O Prof. Anderson Marcicano é graduado em Nuad Bo-rarn Thai Massagem pela ITM School e pelo SPA Mantra em Chiang Mai na Tailândia. É membro da Thai Healing Alliance International (THAI) e professor de terapias corporais alternativas desde 2016 e possui formação em várias técnicas de massagem tailandesa. Reside em Chiang Mai no norte da Tailândia desde 2015 onde pode fazer uma imersão profunda na cultura e nas tradições do norte do país onde a cultura Lanna está presente. Hoje ministra workshops e cursos das técnicas de Thai Massagem no Brasil, Europa e América Latina.
 
 ## Valores
-- R$ 540 a vista 
-- R$ 640 Parcelado (matrícula de R$ 250 + 390 - até 12x no cartão)
+- ~~R$ 540 à vista~~ **Black Friday!**  
+R$ 486 a vista
+- ~~R$ 640 parcelado (matrícula de R$ 250 + 390 - até 12x no cartão)~~ **Black Friday!**  
+R$ 576 parcelado (matrícula de R$ 250 + 326 - até 12x no cartão)

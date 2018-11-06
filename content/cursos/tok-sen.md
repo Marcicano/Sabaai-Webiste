@@ -29,9 +29,7 @@ O Prof. Anderson Marcicano é graduado em Nuad Bo-rarn Thai Massagem pela ITM Sc
 Valores R$ 1.000 a vista (matrícula de R$350 + 750) R$ 1.100 parcelado (matrícula de R$350 + 850 em até 12x no cartão)
 
 ## Valores
-- R$ 1.000 a vista (matrícula de R$ 350 + 650) 
-- R$ 1.100 parcelado: (matrícula de R$ 350 + 750 em até 12x no cartão)
-
-
-
-
+- ~~R$ 1.000 à vista (matrícula de R$350 + 750)~~ **Black Friday!**  
+R$ 900 à vista (matrícula de R$350 + 550)
+- ~~R$ 1.100 parcelado (matrícula de R$350 + 850 em até 12x no cartão)~~ **Black Friday!**  
+R$ 990 parcelado (matrícula de R$350 + 640 em até 12x no cartão)
