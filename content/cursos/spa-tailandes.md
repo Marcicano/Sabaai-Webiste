@@ -6,7 +6,7 @@ id= "spa"
 +++
 
 ### Vitória
-#### Datas: 10 e 11 de Novembro de 2018
+#### Datas: 19 e 20 de Janeiro de 2019
 #### Horário de Realização: Sábado e Domingo das 09:00 às 17:00
 
 ## A quem é destinado este curso?
