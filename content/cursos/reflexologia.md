@@ -38,3 +38,21 @@ O Prof. Anderson Marcicano é graduado em Nuad Bo-rarn Thai Massagem pela ITM Sc
 R$ 486 a vista
 - ~~R$ 640 parcelado (matrícula de R$ 250 + 390 - até 12x no cartão)~~ **Black Friday!**  
 R$ 576 parcelado (matrícula de R$ 250 + 326 - até 12x no cartão)
+
+## Locais
+#### [A Árvore](https://www.facebook.com/aarvoreioga/) 
+###### Rio de Janeiro
+Rua Paulino Fernandes, 58 sala 203  
+Botafogo - Rio de Janeiro/RJ 
+[(mapa)](https://goo.gl/maps/R7oUkr9QkHS2)
+(21) 99812-4624  
+[aarvoreiyengaryoga@gmail.com](mailto:aarvoreiyengaryoga@gmail.com)
+
+<br>
+
+#### [Alma Andaluza Cia e Studio de Dança](http://www.almaandaluza.com.br) 
+###### Vitória
+Avenida Saturnino Ragel Mauro, 999  
+Jardim da Penha - Vitória/ES  
+[(mapa)](https://goo.gl/maps/V5w2kocXmZ62)  
+(27) 9951-6456  

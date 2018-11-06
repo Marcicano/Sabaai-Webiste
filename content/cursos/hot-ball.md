@@ -40,3 +40,21 @@ O curso de formação compreende os movimentos do formato Tailandês da ITM Scho
 R$ 900 à vista (matrícula de R$350 + 550)
 - ~~R$ 1.100 parcelado (matrícula de R$350 + 850 em até 12x no cartão)~~ **Black Friday!**  
 R$ 990 parcelado (matrícula de R$350 + 640 em até 12x no cartão)
+
+## Locais
+#### [Escola Svadharma Yoga](http://www.svadharma.com.br) 
+###### Rio de Janeiro  
+Rua Dois de Dezembro, 119, Casa A   
+Flamengo – Rio de Janeiro/RJ   
+[(mapa)](https://goo.gl/maps/WdG6b1RaKBk)    
+(21) 2557-2344    
+[yoga.svadharma@gmail.com](mailto:yoga.svadharma@gmail.com)  
+
+<br>
+
+#### [Alma Andaluza Cia e Studio de Dança](http://www.almaandaluza.com.br) 
+###### Vitória
+Avenida Saturnino Ragel Mauro, 999   
+Jardim da Penha - Vitória/ES   
+[(mapa)](https://goo.gl/maps/V5w2kocXmZ62)   
+(27) 9951-6456   

@@ -32,3 +32,12 @@ O curso de formação compreende os Níveis I e II do formato Tailandês do ITM 
 R$ 1.480 (matrícula R$ 350 + 1.130) 
 - ~~R$ 1.950 parcelado (matrícula de R$ 350 + 1.600 - até 12x no cartão)~~    **Black friday!**  
 R$ 1.560 (matrícula de R$ 350 + 1.210 - até 12x no cartão)
+
+## Locais
+#### [A Árvore](https://www.facebook.com/aarvoreioga/) 
+###### Rio de Janeiro
+Rua Paulino Fernandes, 58 sala 203  
+Botafogo - Rio de Janeiro/RJ  
+[(mapa)](https://goo.gl/maps/R7oUkr9QkHS2)  
+(21) 99812-4624    
+[aarvoreiyengaryoga@gmail.com](mailto:aarvoreiyengaryoga@gmail.com)   

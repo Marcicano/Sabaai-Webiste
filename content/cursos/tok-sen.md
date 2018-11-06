@@ -33,3 +33,12 @@ Valores R$ 1.000 a vista (matrícula de R$350 + 750) R$ 1.100 parcelado (matríc
 R$ 900 à vista (matrícula de R$350 + 550)
 - ~~R$ 1.100 parcelado (matrícula de R$350 + 850 em até 12x no cartão)~~ **Black Friday!**  
 R$ 990 parcelado (matrícula de R$350 + 640 em até 12x no cartão)
+
+
+## Locais
+#### [Alma Andaluza Cia e Studio de Dança](http://www.almaandaluza.com.br) 
+###### Vitória  
+Avenida Saturnino Ragel Mauro, 999  
+Jardim da Penha - Vitória/ES  
+[(mapa)](https://goo.gl/maps/V5w2kocXmZ62)  
+(27) 9951-6456  
