@@ -1,5 +1,5 @@
 <div class="inscrevase-container">
-    <form name="preinscricao" netlify-honeypot="bot-field" method="POST" action="/inscricao-{{ .Params.Id }}/" netlify>
+    <form id="preinscricao" data-redirect-url="/inscricao-{{ .Params.Id }}">
         <input type="hidden" name="form-name" value="inscrevase-{{ .Params.Id }}" />
         <input type="hidden" name="curso" value="{{ .Params.Id }}" />
         <div class="row">
@@ -15,3 +15,15 @@
         </div>
     </form>
 </div>
+<script>// POST form data to zapier on submit
+        $('#preinscricao').on('submit',function(e){
+            e.preventDefault();
+            $.ajax({
+                url:'https://hooks.zapier.com/hooks/catch/3971383/eqpw3o/',
+                type:'post',
+                data: $("#preinscricao").serialize(),
+                success:function(){
+                    window.location = $('#preinscricao').data('redirect-url');
+                }
+            });
+        });</script>
