@@ -1,11 +1,11 @@
 +++
-title = "Cursos Tailândia"
-subtitle = "Chiang Mai"
+title = "Retiro"
+subtitle = "Teresópolis"
 date = 2018-09-30T19:58:15+03:00
-image = "/cursos/cursos-tailandia.jpg"
+image = "/cursos/retiro-teresopolis.jpeg"
 alt = ""
 color = "white"
-link1 = "/cursos/cursos-tailandia"
+link1 = "/cursos/retiro-teresopolis"
 link2 = ""
 weight = 1
 +++
