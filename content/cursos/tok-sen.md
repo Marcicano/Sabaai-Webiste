@@ -15,6 +15,7 @@ Jardim da Penha - Vitória/ES
 (27) 9951-6456  
 
 
+
 ## A quem é destinado este curso?
 Este curso é voltado para pessoas sem experiência que estão em busca de novos conhecimentos, para profissionais que já atuam no mercado, massoterapeutas, fisioteraputas, estudantes, praticantes de yoga ou amantes da cultura tailandesa. Não há pré-requisitos definido.
 ## Sobre o curso

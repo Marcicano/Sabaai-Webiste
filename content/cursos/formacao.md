@@ -6,8 +6,13 @@ id= "mas"
 +++
 
 ### Rio de Janeiro
-#### Datas: 16, 17, 18 Nov | 23, 24, 25 Nov | 30, 01, 02 Dez
-#### Horário de realização: Sexta: 19:00 - 22:00, Sábados e Domingos: 09:00 - 17:00
+#### [A Árvore](https://www.facebook.com/aarvoreioga/) 
+###### Datas: 16, 17, 18 Nov | 23, 24, 25 Nov | 30, 01, 02 Dez
+###### Horário de realização: Sexta: 19:00 - 22:00, Sábados e Domingos: 09:00 - 17:00
+Rua Paulino Fernandes, 58 sala 203   [(mapa)](https://goo.gl/maps/R7oUkr9QkHS2)  
+Botafogo - Rio de Janeiro/RJ   
+(21) 99812-4624   
+[aarvoreiyengaryoga@gmail.com](mailto:aarvoreiyengaryoga@gmail.com)  
 
 ## A quem é destinado este curso?
 Não há pré-requisitos, é voltado àqueles que tenham interesse em práticas corporais, massoterapeutas, praticantes da Yoga ou simplesmente às pessoas que apreciam o toque como uma forma de relaxamento e bem-estar.
@@ -30,12 +35,3 @@ O curso de formação compreende os Níveis I e II do formato Tailandês do ITM 
 ## Valores
 - R$ 1.850 à vista (matrícula R$ 350 + 1.500)
 - R$ 1.950 parcelado (matrícula de R$ 350 + 1.600 - até 12x no cartão)
-
-## Locais
-#### [A Árvore](https://www.facebook.com/aarvoreioga/) 
-###### Rio de Janeiro
-Rua Paulino Fernandes, 58 sala 203  
-Botafogo - Rio de Janeiro/RJ  
-[(mapa)](https://goo.gl/maps/R7oUkr9QkHS2)  
-(21) 99812-4624    
-[aarvoreiyengaryoga@gmail.com](mailto:aarvoreiyengaryoga@gmail.com)   

@@ -12,23 +12,32 @@
           <div class="col-xs-12 col-sm-4 middle-sm">
               <img id="img-marcicano" src="/images/marcicano.jpg" {{ if .Params.alt }}alt="{{ .Params.alt }}"{{ end }}>
             </div>
-          <div class="col-xs-12 col-sm-8 middle-sm">
-              {{ with $.Site.GetPage "page" "about.md" }}
-                {{ .Content }}
-              {{ end }}
-          </div>
+            <div class="col-xs-12 col-sm-8 middle-sm">
+                {{ with $.Site.GetPage "page" "about.md" }}
+                  {{ .Content }}
+                {{ end }}
+            </div>
       </div>
       <div class="row content">
-        
-        <div class="col-xs-4 col-sm-2"><a href="https://www.moph.go.th"><img src="/images/logos/logo1.jpg" /></a></div>
-        <div class="col-xs-4 col-sm-2"><a href="http://www.en.moe.go.th/enMoe2017/"><img src="/images/logos/logo2.jpg" /></a></div>
-        <div class="col-xs-4 col-sm-2"><a href="https://www.oasisschool.biz"><img src="/images/logos/logo3.jpg" /></a></div>
-        <div class="col-xs-4 col-sm-2"><a href="www.spamantra.com"><img src="/images/logos/logo4.jpg" /></a></div>
-        <div class="col-xs-4 col-sm-2"><a href="http://www.itmthaimassage.com"><img src="/images/logos/logo5.jpg" /></a></div>
-        <div class="col-xs-4 col-sm-2"><a href="http://thaihealingalliance.com"><img src="/images/logos/logo6.jpg" /></a></div>
-        
-        
+          <div class="col-xs-4 col-sm-2"><a href="https://www.moph.go.th"><img src="/images/logos/logo1.jpg" /></a></div>
+          <div class="col-xs-4 col-sm-2"><a href="http://www.en.moe.go.th/enMoe2017/"><img src="/images/logos/logo2.jpg" /></a></div>
+          <div class="col-xs-4 col-sm-2"><a href="https://www.oasisschool.biz"><img src="/images/logos/logo3.jpg" /></a></div>
+          <div class="col-xs-4 col-sm-2"><a href="www.spamantra.com"><img src="/images/logos/logo4.jpg" /></a></div>
+          <div class="col-xs-4 col-sm-2"><a href="http://www.itmthaimassage.com"><img src="/images/logos/logo5.jpg" /></a></div>
+          <div class="col-xs-4 col-sm-2"><a href="http://thaihealingalliance.com"><img src="/images/logos/logo6.jpg" /></a></div>
+        </div>
+        <br>
+      <div class="row content">
+          <div class="col-xs-12 col-sm-4 middle-sm">
+              <img id="img-marcicano" src="/images/marcicano.jpg" {{ if .Params.alt }}alt="{{ .Params.alt }}"{{ end }}>
+            </div>
+            <div class="col-xs-12 col-sm-8 middle-sm">
+                {{ with $.Site.GetPage "page" "about.md" }}
+                  {{ .Content }}
+                {{ end }}
+            </div>
       </div>
+      
     </div>
   </section>
 {{ end }}

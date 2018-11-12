@@ -6,12 +6,22 @@ id= "hot"
 +++
 
 ### Rio de Janeiro
-#### Datas: 12  e 13 de Janeiro de 2019
-#### Horário de realização: Sábado e Domingo 09:00 - 17:00
+#### [Escola Svadharma Yoga](http://www.svadharma.com.br) 
+###### Datas: 12  e 13 de Janeiro de 2019
+###### Horário de realização: Sábado e Domingo 09:00 - 17:00
+Rua Dois de Dezembro, 119, Casa A  [(mapa)](https://goo.gl/maps/WdG6b1RaKBk)     
+Flamengo – Rio de Janeiro/RJ   
+(21) 2557-2344    
+[yoga.svadharma@gmail.com](mailto:yoga.svadharma@gmail.com)  
 
 ### Vitória
-#### Datas: 08 e 09 de Dezembro de 2018 
-#### Horário de realização: Sábado e Domingo 09:00 - 17:00 
+#### [Alma Andaluza Cia e Studio de Dança](http://www.almaandaluza.com.br)
+###### Datas: 08 e 09 de Dezembro de 2018 
+###### Horário de realização: Sábado e Domingo 09:00 - 17:00 
+Avenida Saturnino Ragel Mauro, 999  [(mapa)](https://goo.gl/maps/V5w2kocXmZ62)  
+Jardim da Penha - Vitória/ES  
+(27) 9951-6456  
+
 
 ## A quem é destinado este curso?
 Não há pré-requisitos para se inscrever. O curso é voltado àqueles que tenham interesse em práticas corporais, massoterapeutas, praticantes da Yoga ou simplesmente às pessoas que apreciam o toque como uma forma de relaxamento e bem-estar.
@@ -39,20 +49,5 @@ O curso de formação compreende os movimentos do formato Tailandês da ITM Scho
 - R$ 1.000 à vista (matrícula de R$350 + 750)
 - R$ 1.100 parcelado (matrícula de R$350 + 850 em até 12x no cartão)
 
-## Locais
-#### [Escola Svadharma Yoga](http://www.svadharma.com.br) 
-###### Rio de Janeiro  
-Rua Dois de Dezembro, 119, Casa A   
-Flamengo – Rio de Janeiro/RJ   
-[(mapa)](https://goo.gl/maps/WdG6b1RaKBk)    
-(21) 2557-2344    
-[yoga.svadharma@gmail.com](mailto:yoga.svadharma@gmail.com)  
-
 <br>
 
-#### [Alma Andaluza Cia e Studio de Dança](http://www.almaandaluza.com.br) 
-###### Vitória
-Avenida Saturnino Ragel Mauro, 999   
-Jardim da Penha - Vitória/ES   
-[(mapa)](https://goo.gl/maps/V5w2kocXmZ62)   
-(27) 9951-6456   
