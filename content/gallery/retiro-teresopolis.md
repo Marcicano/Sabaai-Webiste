@@ -2,7 +2,7 @@
 title = "Retiro"
 subtitle = "Teresópolis"
 date = 2018-09-30T19:58:15+03:00
-image = "/cursos/retiro-teresopolis.jpg"
+image = "/cursos/retiro-teresopolis.png"
 alt = ""
 color = "white"
 link1 = "/cursos/retiro-teresopolis"
