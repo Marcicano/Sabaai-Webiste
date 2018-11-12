@@ -1,5 +1,5 @@
 {{ $directory := "content/" }}
-{{ $filename := "about.md" }}
+<!-- {{ $filename := "about-anderson.md" }} -->
 {{ if (where (readDir $directory) "Name" $filename) }}
   <section class="about" id="nos">
     <div class="container middle-xs">
@@ -13,7 +13,7 @@
               <img id="img-marcicano" src="/images/marcicano.jpg" {{ if .Params.alt }}alt="{{ .Params.alt }}"{{ end }}>
             </div>
             <div class="col-xs-12 col-sm-8 middle-sm">
-                {{ with $.Site.GetPage "page" "about.md" }}
+                {{ with $.Site.GetPage "page" "about-anderson.md" }}
                   {{ .Content }}
                 {{ end }}
             </div>
@@ -29,10 +29,10 @@
         <br>
       <div class="row content">
           <div class="col-xs-12 col-sm-4 middle-sm">
-              <img id="img-marcicano" src="/images/marcicano.jpg" {{ if .Params.alt }}alt="{{ .Params.alt }}"{{ end }}>
+              <img id="img-marcicano" src="/images/roberto.jpeg" {{ if .Params.alt }}alt="{{ .Params.alt }}"{{ end }}>
             </div>
             <div class="col-xs-12 col-sm-8 middle-sm">
-                {{ with $.Site.GetPage "page" "about.md" }}
+                {{ with $.Site.GetPage "page" "about-roberto.md" }}
                   {{ .Content }}
                 {{ end }}
             </div>
