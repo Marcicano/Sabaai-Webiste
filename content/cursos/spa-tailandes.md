@@ -17,10 +17,8 @@ Neste curso o aluno irá aprender sobre as técnicas de um spa tailandês, que v
 Prof. Anderson Marcicano é graduado em Nuad Bo-rarn Thai Massagem pela ITM School e pelo SPA Mantra em Chiang Mai na Tailândia. É membro da Thai Healing Alliance International (THAI) e professor de terapias corporais alternativas desde 2016, possuindo formação em várias técnicas de massagem tailandesa. Reside em Chiang Mai, no norte da Tailândia, desde 2015 onde faz uma imersão profunda na cultura e nas tradições do norte do país onde a cultura Lanna está presente. Hoje administra workshops e cursos das técnicas de Thai Massagem no Brasil, Europa e América Latina.
 
 ## Valores
-- ~~R$ 1.000 à vista (matrícula de R$350 + 750)~~ **Black Friday!**  
-R$ 900 à vista (matrícula de R$350 + 550)
-- ~~R$ 1.100 parcelado (matrícula de R$350 + 850 em até 12x no cartão)~~ **Black Friday!**  
-R$ 990 parcelado (matrícula de R$350 + 640 em até 12x no cartão)
+- R$ 1.000 à vista (matrícula de R$350 + 750)
+- R$ 1.100 parcelado (matrícula de R$350 + 850 em até 12x no cartão)
 
 ## Locais
 #### [Alma Andaluza Cia e Studio de Dança](http://www.almaandaluza.com.br) 

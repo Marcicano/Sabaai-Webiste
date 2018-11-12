@@ -28,10 +28,8 @@ O curso de formação compreende os Níveis I e II do formato Tailandês do ITM 
 - Após a conclusão do curso os alunos terão uma base sólida dos movimentos da MTT e estarão aptos a criar suas próprias sequências de Massagem de 1h a 3 horas de terapia.
 
 ## Valores
-- ~~R$ 1.850 à vista (matrícula R$ 350 + 1.500)~~    **Black friday!**  
-R$ 1.480 (matrícula R$ 350 + 1.130) 
-- ~~R$ 1.950 parcelado (matrícula de R$ 350 + 1.600 - até 12x no cartão)~~    **Black friday!**  
-R$ 1.560 (matrícula de R$ 350 + 1.210 - até 12x no cartão)
+- R$ 1.850 à vista (matrícula R$ 350 + 1.500)
+- R$ 1.950 parcelado (matrícula de R$ 350 + 1.600 - até 12x no cartão)
 
 ## Locais
 #### [A Árvore](https://www.facebook.com/aarvoreioga/) 
