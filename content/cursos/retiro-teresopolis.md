@@ -166,7 +166,7 @@ Chegada em Teresópolis
 Retorno para o Rio após o jantar (horário e local ainda não foram definidos)
 
 
-## Valores
+<!-- ## Valores
 <br/>
 ##### Até 30 de Janeiro  
 À vista R$ 1.940,00 (500 de matrícula + 1440)  
@@ -180,7 +180,7 @@ Parcelado R$ 2.247,00 (500 de matrícula + 1747 em até 3x sem juros ou 12x com 
 <br/>
 ##### Depois 30 de Fevereiro
 À vista R$ 2.340,00 (500 de matrícula + 1840)  
-Parcelado R$ 2.458,00 (500 de matrícula + 1958 em até 3x sem juros ou 12x com juros do cartão)
+Parcelado R$ 2.458,00 (500 de matrícula + 1958 em até 3x sem juros ou 12x com juros do cartão) -->
 
 
 ## Notas
