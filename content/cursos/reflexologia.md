@@ -12,7 +12,7 @@ id= "ref"
 Rua Dona Salvadora, 89 - Serra   [(mapa)](https://goo.gl/maps/EBh7uivfFe92)  
 Belo Horizonte, MG 30220-230
 (31) 3657-0607 | (31) 4141-1747  
-[aarvoreiyengaryoga@gmail.com](mailto:aarvoreiyengaryoga@gmail.com) 
+[contato@espacovivabem.com.br](contato@espacovivabem.com.br) 
 
 
 <!-- ### Rio de Janeiro
@@ -24,13 +24,12 @@ Botafogo - Rio de Janeiro/RJ
 (21) 99812-4624   
 [aarvoreiyengaryoga@gmail.com](mailto:aarvoreiyengaryoga@gmail.com)   -->
 
-<!-- ### Vitória
+### Vitória
 #### [Alma Andaluza Cia e Studio de Dança](http://www.almaandaluza.com.br)
-###### Datas: 07, 08 e 09 de Dezembro 2018 
 ###### Horário de realização: Sexta, Sábado e Domingo das 18:00 às 22:00
 Avenida Saturnino Ragel Mauro, 999  [(mapa)](https://goo.gl/maps/V5w2kocXmZ62)  
 Jardim da Penha - Vitória/ES  
-(27) 9951-6456   -->
+(27) 9951-6456  
 
 
 ## A quem é destinado este curso?

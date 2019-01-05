@@ -5,17 +5,6 @@ description = ""
 id= "mas"
 +++
 
-
-Thai Massagem
-
-
-
-
-
-
-contato@espacovivabem.com.br
-
-
 ### Belo Horizonte
 #### [Espaço VIVA BEM](https://www.vivabemespacoholistico.com.br) 
 ###### Datas: 15, 16, 17 Mar | 22, 23, 24 Mar | 29, 30, 31 Mar
@@ -23,7 +12,7 @@ contato@espacovivabem.com.br
 Rua Dona Salvadora, 89 - Serra   [(mapa)](https://goo.gl/maps/EBh7uivfFe92)  
 Belo Horizonte, MG 30220-230
 (31) 3657-0607 | (31) 4141-1747  
-[aarvoreiyengaryoga@gmail.com](mailto:aarvoreiyengaryoga@gmail.com) 
+[contato@espacovivabem.com.br](contato@espacovivabem.com.br) 
 
 <!-- ### Rio de Janeiro
 #### [A Árvore](https://www.facebook.com/aarvoreioga/) 

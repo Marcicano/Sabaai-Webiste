@@ -21,7 +21,7 @@ Flamengo – Rio de Janeiro/RJ
 Rua Dona Salvadora, 89 - Serra   [(mapa)](https://goo.gl/maps/EBh7uivfFe92)  
 Belo Horizonte, MG 30220-230
 (31) 3657-0607 | (31) 4141-1747  
-[aarvoreiyengaryoga@gmail.com](mailto:aarvoreiyengaryoga@gmail.com) 
+[contato@espacovivabem.com.br](contato@espacovivabem.com.br) 
 
 <!-- ### Vitória
 #### [Alma Andaluza Cia e Studio de Dança](http://www.almaandaluza.com.br)
