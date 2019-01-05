@@ -1,6 +1,6 @@
 +++
 title = "Thai Massagem"
-subtitle = "Rio de Janeiro"
+subtitle = "Belo Horizonte"
 date = 2018-09-27T19:55:15+03:00
 image = "/cursos/formacao.png"
 alt = ""
