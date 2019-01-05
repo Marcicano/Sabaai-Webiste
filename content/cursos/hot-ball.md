@@ -14,13 +14,22 @@ Flamengo – Rio de Janeiro/RJ
 (21) 2557-2344    
 [yoga.svadharma@gmail.com](mailto:yoga.svadharma@gmail.com)  
 
-### Vitória
+### Belo Horizonte
+#### [Espaço VIVA BEM](https://www.vivabemespacoholistico.com.br) 
+###### Datas: 18, 19, 20 e 21 Mar 
+###### Horário de realização: 19:30 - 22:30
+Rua Dona Salvadora, 89 - Serra   [(mapa)](https://goo.gl/maps/EBh7uivfFe92)  
+Belo Horizonte, MG 30220-230
+(31) 3657-0607 | (31) 4141-1747  
+[aarvoreiyengaryoga@gmail.com](mailto:aarvoreiyengaryoga@gmail.com) 
+
+<!-- ### Vitória
 #### [Alma Andaluza Cia e Studio de Dança](http://www.almaandaluza.com.br)
 ###### Datas: 08 e 09 de Dezembro de 2018 
 ###### Horário de realização: Sábado e Domingo 09:00 - 17:00 
 Avenida Saturnino Ragel Mauro, 999  [(mapa)](https://goo.gl/maps/V5w2kocXmZ62)  
 Jardim da Penha - Vitória/ES  
-(27) 9951-6456  
+(27) 9951-6456   -->
 
 
 ## A quem é destinado este curso?

@@ -5,14 +5,23 @@ description = ""
 id= "tok"
 +++
 
+### Belo Horizonte
+#### [Espaço VIVA BEM](https://www.vivabemespacoholistico.com.br) 
+###### 25, 26, 27 e 28 Mar 
+###### Horário de realização: 19:00 - 22:00
+Rua Dona Salvadora, 89 - Serra   [(mapa)](https://goo.gl/maps/EBh7uivfFe92)  
+Belo Horizonte, MG 30220-230
+(31) 3657-0607 | (31) 4141-1747  
+[aarvoreiyengaryoga@gmail.com](mailto:aarvoreiyengaryoga@gmail.com) 
 
-### Vitória
+
+<!-- ### Vitória
 #### [Alma Andaluza Cia e Studio de Dança](http://www.almaandaluza.com.br)
 ###### Datas: 15 e 16 de Dezembro de 2018  
 ###### Horário de realização: Sábado e Domingo das 09:00 às 17:00  
 Avenida Saturnino Ragel Mauro, 999  [(mapa)](https://goo.gl/maps/V5w2kocXmZ62)  
 Jardim da Penha - Vitória/ES  
-(27) 9951-6456  
+(27) 9951-6456   -->
 
 
 

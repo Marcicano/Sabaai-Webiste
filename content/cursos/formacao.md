@@ -5,14 +5,34 @@ description = ""
 id= "mas"
 +++
 
-### Rio de Janeiro
+
+Thai Massagem
+
+
+
+
+
+
+contato@espacovivabem.com.br
+
+
+### Belo Horizonte
+#### [Espaço VIVA BEM](https://www.vivabemespacoholistico.com.br) 
+###### Datas: 15, 16, 17 Mar | 22, 23, 24 Mar | 29, 30, 31 Mar
+###### Horário de realização: Sexta: 19:30 - 22:30, Sábados 10:30 - 19:30 e Domingos: 09:00 - 18:00
+Rua Dona Salvadora, 89 - Serra   [(mapa)](https://goo.gl/maps/EBh7uivfFe92)  
+Belo Horizonte, MG 30220-230
+(31) 3657-0607 | (31) 4141-1747  
+[aarvoreiyengaryoga@gmail.com](mailto:aarvoreiyengaryoga@gmail.com) 
+
+<!-- ### Rio de Janeiro
 #### [A Árvore](https://www.facebook.com/aarvoreioga/) 
 ###### Datas: 16, 17, 18 Nov | 23, 24, 25 Nov | 30, 01, 02 Dez
 ###### Horário de realização: Sexta: 19:00 - 22:00, Sábados e Domingos: 09:00 - 17:00
 Rua Paulino Fernandes, 58 sala 203   [(mapa)](https://goo.gl/maps/R7oUkr9QkHS2)  
 Botafogo - Rio de Janeiro/RJ   
 (21) 99812-4624   
-[aarvoreiyengaryoga@gmail.com](mailto:aarvoreiyengaryoga@gmail.com)  
+[aarvoreiyengaryoga@gmail.com](mailto:aarvoreiyengaryoga@gmail.com)  -->
 
 ## A quem é destinado este curso?
 Não há pré-requisitos, é voltado àqueles que tenham interesse em práticas corporais, massoterapeutas, praticantes da Yoga ou simplesmente às pessoas que apreciam o toque como uma forma de relaxamento e bem-estar.

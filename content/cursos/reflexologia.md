@@ -5,23 +5,32 @@ description = ""
 id= "ref"
 +++
 
+### Belo Horizonte
+#### [Espaço VIVA BEM](https://www.vivabemespacoholistico.com.br) 
+###### Datas: 11, 12, 13 e 14 Mar 
+###### Horário de realização: 19:00 - 22:00
+Rua Dona Salvadora, 89 - Serra   [(mapa)](https://goo.gl/maps/EBh7uivfFe92)  
+Belo Horizonte, MG 30220-230
+(31) 3657-0607 | (31) 4141-1747  
+[aarvoreiyengaryoga@gmail.com](mailto:aarvoreiyengaryoga@gmail.com) 
 
-### Rio de Janeiro
+
+<!-- ### Rio de Janeiro
 #### [A Árvore](https://www.facebook.com/aarvoreioga/) 
 ###### Datas: 22 e 23 de Novembro 2018
 ###### Horário de realização: Quinta e Sexta das 10:00 às 18:00
 Rua Paulino Fernandes, 58 sala 203   [(mapa)](https://goo.gl/maps/R7oUkr9QkHS2)  
 Botafogo - Rio de Janeiro/RJ   
 (21) 99812-4624   
-[aarvoreiyengaryoga@gmail.com](mailto:aarvoreiyengaryoga@gmail.com)  
+[aarvoreiyengaryoga@gmail.com](mailto:aarvoreiyengaryoga@gmail.com)   -->
 
-### Vitória
+<!-- ### Vitória
 #### [Alma Andaluza Cia e Studio de Dança](http://www.almaandaluza.com.br)
 ###### Datas: 07, 08 e 09 de Dezembro 2018 
 ###### Horário de realização: Sexta, Sábado e Domingo das 18:00 às 22:00
 Avenida Saturnino Ragel Mauro, 999  [(mapa)](https://goo.gl/maps/V5w2kocXmZ62)  
 Jardim da Penha - Vitória/ES  
-(27) 9951-6456  
+(27) 9951-6456   -->
 
 
 ## A quem é destinado este curso?
