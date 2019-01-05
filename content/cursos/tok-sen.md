@@ -7,7 +7,7 @@ id= "tok"
 
 ### Belo Horizonte
 #### [Espaço VIVA BEM](https://www.vivabemespacoholistico.com.br) 
-###### 25, 26, 27 e 28 Mar 
+###### 25, 26, 27 e 28 de Março de 2019
 ###### Horário de realização: 19:00 - 22:00
 Rua Dona Salvadora, 89 - Serra   [(mapa)](https://goo.gl/maps/EBh7uivfFe92)  
 Belo Horizonte, MG 30220-230
@@ -17,11 +17,11 @@ Belo Horizonte, MG 30220-230
 
 ### Vitória
 #### [Alma Andaluza Cia e Studio de Dança](http://www.almaandaluza.com.br)
+###### 09 e 10 de Fevereiro de 2019
 ###### Horário de realização: Sábado e Domingo das 09:00 às 17:00  
 Avenida Saturnino Ragel Mauro, 999  [(mapa)](https://goo.gl/maps/V5w2kocXmZ62)  
 Jardim da Penha - Vitória/ES  
 (27) 9951-6456  
-
 
 
 ## A quem é destinado este curso?

@@ -26,10 +26,13 @@ Botafogo - Rio de Janeiro/RJ
 
 ### Vitória
 #### [Alma Andaluza Cia e Studio de Dança](http://www.almaandaluza.com.br)
+###### Datas: 02 e 03 de Fevereiro de 2019
 ###### Horário de realização: Sexta, Sábado e Domingo das 18:00 às 22:00
 Avenida Saturnino Ragel Mauro, 999  [(mapa)](https://goo.gl/maps/V5w2kocXmZ62)  
 Jardim da Penha - Vitória/ES  
 (27) 9951-6456  
+
+
 
 
 ## A quem é destinado este curso?
