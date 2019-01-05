@@ -21,7 +21,7 @@ Não há pré-requisitos para se inscrever. O curso é voltado àqueles que tenh
 
 ### Thai Massagem com compressa de ervas quentes - Prof. Anderson Marcicano
 
-O curso de Thai Massagem com compressa de ervas quente é oferecido pelo Prof. Anderson Marcicano que segue os mesmos padrões de ensino da Escola Tailandesa ITM School/Spa Mantra, o que possibilita a Certificação Internacional emitida por esta escola, reconhecida em diversos países no mundo e pelo Ministério da Saúde Tailandês. Como trata-se de um curso intensivo, todos os dias de aula são fundamentais para o aprendizado e assimilação da técnica. Qualquer ausência acarretará na conclusão do curso.
+O curso de Thai Massagem com compressa de ervas quentes é oferecido pelo Prof. Anderson Marcicano que segue os mesmos padrões de ensino da Escola Tailandesa ITM School/Spa Mantra, o que possibilita a Certificação Internacional emitida por esta escola, reconhecida em diversos países no mundo e pelo Ministério da Saúde Tailandês. Como trata-se de um curso intensivo, todos os dias de aula são fundamentais para o aprendizado e assimilação da técnica. Qualquer ausência acarretará na conclusão do curso.
 
 O objetivo do curso é capacitar o aluno para execução da terapia de Thai Massagem com compressa de ervas quentes e selecionar as principais ervas para os diferentes usos terapêuticos.  
 <br/>
@@ -37,7 +37,7 @@ Modalidade bastante versátil e da qual se originaram as outras, pode ter uma ê
 
 <br/>
 #### Vinyasa Flow
-Nesse estilo as poses individuais que formam a sequência clássica Surya Namaskar, ou Saudação ao Sol, são a base do fluxo da aula, muitas vezes servindo de passagem entre uma pose e outra. É um estilo bastante dinâmico, que tende a priorizar o movimento em relação a permanência, característica intensificada pela coordenação com a respiração.. 
+Nesse estilo as poses individuais que formam a sequência clássica Surya Namaskar, ou Saudação ao Sol, são a base do fluxo da aula, muitas vezes servindo de passagem entre uma pose e outra. É um estilo bastante dinâmico, que tende a priorizar o movimento em relação a permanência, característica intensificada pela coordenação com a respiração.
 
 <br/>
 #### Yin Yoga
