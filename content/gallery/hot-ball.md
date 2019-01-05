@@ -1,6 +1,6 @@
 +++
 title = "Thai Massagem com compressa de ervas quentes"
-subtitle = "Rio de Janeiro e Vitória"
+subtitle = "Rio de Janeiro, Belo Horizonte e Vitória"
 date = 2018-10-27T19:56:15+03:00
 image = "/cursos/hot-ball.png"
 alt = ""

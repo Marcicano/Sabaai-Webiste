@@ -33,8 +33,6 @@ Jardim da Penha - Vitória/ES
 (27) 9951-6456  
 
 
-
-
 ## A quem é destinado este curso?
 Não há pré-requisitos, é voltado àqueles que tenham interesse em práticas corporais, massoterapeutas, ou simplesmente às pessoas que apreciam o toque como uma forma de relaxamento e bem-estar.
 
