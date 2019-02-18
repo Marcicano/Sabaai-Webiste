@@ -14,7 +14,7 @@ CEP: 25976-810 Cx.Postal: 92430
 (21) 99458 7037
 (21) 97117 5284 
 (21) 2644 7213  
-[reservasvraja@gmail.com](mailto:reservasvraja@gmail.com)
+[info@sabaai.com.br](mailto:info@sabaai.com.br)
 
 ## A quem é destinado este evento?
 Não há pré-requisitos para se inscrever. O curso é voltado àqueles que tenham interesse em práticas corporais, massoterapeutas, praticantes da Yoga ou simplesmente às pessoas que queiram relaxar e apreciam o toque como uma forma de relaxamento e bem-estar.
