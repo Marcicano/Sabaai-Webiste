@@ -11,7 +11,9 @@ id= "ter"
 Estrada Teresópolis-Friburgo, Km 6,5  [(mapa)](https://goo.gl/maps/D1GXGY72hXG2)  
 Bairro Albuquerque - Teresópolis - Rio de Janeiro  
 CEP: 25976-810 Cx.Postal: 92430  
-(27) 9951-6456  
+(21) 99458 7037
+(21) 97117 5284 
+(21) 2644 7213  
 [reservasvraja@gmail.com](mailto:reservasvraja@gmail.com)
 
 ## A quem é destinado este evento?
