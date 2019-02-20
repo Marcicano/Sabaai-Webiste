@@ -14,14 +14,14 @@ Belo Horizonte, MG 30220-230
 (31) 3657-0607 | (31) 4141-1747  
 [contato@espacovivabem.com.br](contato@espacovivabem.com.br) 
 
-### Rio de Janeiro
+<!-- ### Rio de Janeiro
 #### [Escola Svadharma Yoga](http://www.svadharma.com.br) 
 ###### Datas: 27 e 28 de Abril de 2019
 ###### Horário de realização: Sábado e Domingo 09:00 - 17:00
 Rua Dois de Dezembro, 119, Casa A  [(mapa)](https://goo.gl/maps/WdG6b1RaKBk)     
 Flamengo – Rio de Janeiro/RJ   
 (21) 2557-2344    
-[yoga.svadharma@gmail.com](mailto:yoga.svadharma@gmail.com)  
+[yoga.svadharma@gmail.com](mailto:yoga.svadharma@gmail.com)  -->
 
 ## A quem é destinado este curso?
 Não há pré-requisitos, é voltado àqueles que tenham interesse em práticas corporais, massoterapeutas, praticantes da Yoga ou simplesmente às pessoas que apreciam o toque como uma forma de relaxamento e bem-estar.
