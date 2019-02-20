@@ -7,7 +7,7 @@ id= "hot"
 
 ### Rio de Janeiro
 #### [Escola Svadharma Yoga](http://www.svadharma.com.br) 
-###### Datas: 12  e 13 de Janeiro de 2019
+###### Datas: 13 e 14 de Abril de 2019
 ###### Horário de realização: Sábado e Domingo 09:00 - 17:00
 Rua Dois de Dezembro, 119, Casa A  [(mapa)](https://goo.gl/maps/WdG6b1RaKBk)     
 Flamengo – Rio de Janeiro/RJ   
@@ -23,13 +23,7 @@ Belo Horizonte, MG 30220-230
 (31) 3657-0607 | (31) 4141-1747  
 [contato@espacovivabem.com.br](contato@espacovivabem.com.br) 
 
-### Vitória
-#### [Alma Andaluza Cia e Studio de Dança](http://www.almaandaluza.com.br)
-###### Datas: 26 e 27 de Janeiro de 2019
-###### Horário de realização: Sábado e Domingo 09:00 - 17:00 
-Avenida Saturnino Ragel Mauro, 999  [(mapa)](https://goo.gl/maps/V5w2kocXmZ62)  
-Jardim da Penha - Vitória/ES  
-(27) 9951-6456  
+
 
 ## A quem é destinado este curso?
 Não há pré-requisitos para se inscrever. O curso é voltado àqueles que tenham interesse em práticas corporais, massoterapeutas, praticantes da Yoga ou simplesmente às pessoas que apreciam o toque como uma forma de relaxamento e bem-estar.
