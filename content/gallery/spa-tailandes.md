@@ -1,6 +1,6 @@
 +++
-title = "Spa TailandÃªs"
-subtitle = "VitÃ³ria"
+title = "Spa Tailandês"
+subtitle = "Vitória - Rio - Belo Horizonte - São Paulo - Curitiba - Brasília - Salvador - Recife - Fortaleza"
 date = 2018-10-27T19:58:15+03:00
 image = "/cursos/spa-tailandes.png"
 alt = ""
