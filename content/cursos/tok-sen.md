@@ -15,14 +15,13 @@ Belo Horizonte, MG 30220-230
 [contato@espacovivabem.com.br](contato@espacovivabem.com.br) 
 
 
-### Vitória
+<!-- ### Vitória
 #### [Alma Andaluza Cia e Studio de Dança](http://www.almaandaluza.com.br)
-###### 09 e 10 de Fevereiro de 2019
+###### Datas: 19 e 20 de Janeiro de 2019
 ###### Horário de realização: Sábado e Domingo das 09:00 às 17:00  
 Avenida Saturnino Ragel Mauro, 999  [(mapa)](https://goo.gl/maps/V5w2kocXmZ62)  
 Jardim da Penha - Vitória/ES  
-(27) 9951-6456  
-
+(27) 9951-6456  -->
 
 ## A quem é destinado este curso?
 Este curso é voltado para pessoas sem experiência que estão em busca de novos conhecimentos, para profissionais que já atuam no mercado, massoterapeutas, fisioteraputas, estudantes, praticantes de yoga ou amantes da cultura tailandesa. Não há pré-requisitos definido.
