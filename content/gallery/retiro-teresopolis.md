@@ -1,6 +1,6 @@
 +++
 title = "Retiro"
-subtitle = "Teresópolis - Buzios"
+subtitle = "TeresÃ³polis - Buzios"
 date = 2018-09-30T19:58:15+03:00
 image = "/cursos/retiro-teresopolis.png"
 alt = ""
@@ -10,6 +10,6 @@ link2 = ""
 weight = 1
 +++
 
-# Cursos Tailândia
+# Cursos Tailï¿½ndia
 
-Saiba mais em breve sobre os cursos que organizaremos na capital mundial da massagem, Chiang Mai, Tailândia.
+Saiba mais em breve sobre os cursos que organizaremos na capital mundial da massagem, Chiang Mai, Tailï¿½ndia.
