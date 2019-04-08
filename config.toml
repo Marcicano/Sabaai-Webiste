@@ -1,5 +1,5 @@
 title = "SABAAI"
-baseURL = "https://sabaai.netlify.com"
+baseURL = "https://www.sabaai.com.br"
 tags = ["portfolio", "web design", "blog"]
 languageCode = "en-US"
 config = "config.toml"
