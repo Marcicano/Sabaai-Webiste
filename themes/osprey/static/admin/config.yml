@@ -5,7 +5,7 @@ backend:
 media_folder: static/images/uploads
 public_folder: /images/uploads
 collections:
-  - name: cursos/formacao/ # Used in routes, e.g., /admin/collections/blog
+  - name: sabaai # Used in routes, e.g., /admin/collections/blog
     label: "Formacao" # Used in the UI
     folder: "../../../../content/cursos/formacao.md" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
