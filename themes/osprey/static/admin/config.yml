@@ -5,8 +5,8 @@ backend:
 media_folder: static/images/uploads
 public_folder: /images/uploads
 collections:
-  - name: "#nos" # Used in routes, e.g., /admin/collections/blog
-    label: "#nos" # Used in the UI
+  - name: "/#nos" # Used in routes, e.g., /admin/collections/blog
+    label: "/#nos" # Used in the UI
     folder: "../../layouts/partials/about.html" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
